@@ -4,9 +4,9 @@
 
 Dealt turns your to-do list into a card game for iPhone, iPad and Mac. Every task is a card in your hand: play it onto the table when it's done, earn XP and level up.
 
-- **Website:** https://USERNAME.github.io/dealt/
-- **Support:** https://USERNAME.github.io/dealt/support.html
-- **Privacy policy:** https://USERNAME.github.io/dealt/privacy.html
+- **Website:** https://akdealt.github.io/dealt/
+- **Support:** https://akdealt.github.io/dealt/support.html
+- **Privacy policy:** https://akdealt.github.io/dealt/privacy.html
 
 ## Privacy
 
