@@ -1,24 +1,24 @@
-Dealt — Privacy Policy
-Last updated: 11 October 2026
+# Dealt — A to-do list you play
 
-Dealt is a to-do list app for iPhone, iPad and Mac. This policy explains what happens to your information when you use it. The short version: Dealt does not collect any data about you.
+![Dealt on a MacBook and an iPhone](header.jpg)
 
-What Dealt stores
-The tasks, categories, settings and progress you create in Dealt are stored on your device. If you're signed in to iCloud, Dealt also keeps a copy in your own iCloud account so your tasks stay in sync across your devices. That copy is held by Apple under your Apple Account and is covered by Apple's Privacy Policy. The developer of Dealt cannot see or access it.
+Dealt turns your to-do list into a card game for iPhone, iPad and Mac. Every task is a card in your hand: play it onto the table when it's done, earn XP and level up.
 
-What Dealt doesn't do
-No accounts or sign-up
-No analytics, tracking or advertising
-No third-party services or SDKs
-No personal information is sent to the developer or anyone else
-Deleting your data
-You can delete everything at any time in the app from Settings → Reset tasks and xp. Deleting the app removes the data on that device. To remove the iCloud copy, use Reset tasks and xp while signed in to iCloud, or manage your iCloud storage in your device's Settings.
+- **Website:** https://USERNAME.github.io/dealt/
+- **Support:** https://USERNAME.github.io/dealt/support.html
+- **Privacy policy:** https://USERNAME.github.io/dealt/privacy.html
 
-Children
-Dealt collects no data from anyone, including children.
+## Privacy
 
-Changes
-If this policy ever changes, the updated version will be posted on this page with a new date.
+**Dealt does not collect any data about you.**
 
-Contact
-Questions? Email alexk3321@gmail.com.
+- Your tasks, categories, settings and progress are stored on your device, and synced between your devices through your own iCloud account. The developer can't see or access them.
+- No accounts, no sign-up, no analytics, no tracking, no adverts and no third-party services.
+- Dealt Pro is bought through the App Store. Apple handles the payment and only tells the app whether Pro is unlocked.
+- You can delete everything at any time in the app, from Settings › Reset tasks and xp.
+
+Read the full [privacy policy](https://USERNAME.github.io/dealt/privacy.html).
+
+## Contact
+
+Questions or problems? Email alexk3321@gmail.com.
