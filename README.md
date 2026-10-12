@@ -13,7 +13,7 @@ Dealt turns your to-do list into a card game for iPhone, iPad and Mac. Every tas
 
 ## Support
 
-Need a hand? Email [alexk3321@gmail.com](mailto:alexk3321@gmail.com) and I'll get back to you.
+Need a hand? Email [akeldealt@gmail.com](mailto:akeldealt@gmail.com) and I'll get back to you.
 
 ### How do I complete a task?
 
@@ -113,6 +113,6 @@ Dealt is provided under Apple's [Standard Licensed Application End User License 
 
 ## Contact
 
-Questions, problems or ideas? Email [alexk3321@gmail.com](mailto:alexk3321@gmail.com).
+Questions, problems or ideas? Email [akeldealt@gmail.com](mailto:akeldealt@gmail.com).
 
 © 2026 Alexander Keeling
