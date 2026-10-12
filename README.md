@@ -1,7 +1,5 @@
 # Dealt — A to-do list you play
 
-![Dealt on a MacBook and an iPhone](header.jpg)
-
 Dealt turns your to-do list into a card game for iPhone, iPad and Mac. Every task is a card in your hand: play it onto the table when it's done, earn XP and level up.
 
 **Contents**
