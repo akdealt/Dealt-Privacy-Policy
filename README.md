@@ -13,7 +13,7 @@ Dealt turns your to-do list into a card game for iPhone, iPad and Mac. Every tas
 
 ## Support
 
-Need a hand? Email [akeldealt@gmail.com](mailto:akeldealt@gmail.com) and I'll get back to you.
+Need a hand or have any suggestions on how I can improve it? Please Email [akeldealt@gmail.com](mailto:akeldealt@gmail.com) and I'll get back to you!
 
 ### How do I complete a task?
 
