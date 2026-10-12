@@ -95,10 +95,6 @@ Under UK and EU data protection law, you have the right to ask what personal inf
 
 If you're unhappy with how your information has been handled, you can complain to the UK Information Commissioner's Office at [ico.org.uk](https://ico.org.uk), or to the data protection authority in your country.
 
-### Children
-
-Dealt collects no data from anyone, including children.
-
 ### Changes
 
 If this policy ever changes, the updated version will be posted here with a new date.
