@@ -66,7 +66,7 @@ Dealt is a to-do list app for iPhone, iPad and Mac. This policy explains what ha
 
 ### Who is responsible
 
-Dealt is made by Alexander Keeling, an independent developer in the United Kingdom, who is responsible for this policy. Contact: [alexk3321@gmail.com](mailto:alexk3321@gmail.com).
+Dealt is made by Alexander Keeling, an independent developer in the United Kingdom, who is responsible for this policy. Contact: [akeldealt@gmail.com](mailto:akeldealt@gmail.com).
 
 ### What Dealt stores
 
